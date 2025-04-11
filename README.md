@@ -19,7 +19,6 @@ This folder contains the results and materials related to the five internal hack
 - Challenge definitions
 - Team compositions
 - Developed solutions and prototypes
-- Evaluation metrics and feedback
 - Reporting tools and data analysis spreadsheet
 
 These materials showcase the methodology used to structure and assess hackathons as collaborative tools within large-scale research projects.
@@ -28,7 +27,6 @@ These materials showcase the methodology used to structure and assess hackathons
 This folder includes the results of a post-project questionnaire conducted among AIDOaRt participants to validate the proposed hackathon methodology and collect qualitative feedback. The dataset includes:
 
 - Aggregated survey responses
-- Quantitative and qualitative analysis
 - Charts and metrics visualizing participation, satisfaction, interdisciplinary collaboration, and challenge evolution
 - Raw data and analysis spreadsheet (e.g., for Likert scale processing and open-ended response categorization)
 
