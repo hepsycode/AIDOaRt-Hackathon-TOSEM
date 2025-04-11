@@ -21,7 +21,6 @@ This folder contains the results and materials related to the five internal hack
 - Developed solutions and prototypes
 - Evaluation metrics and feedback
 - Reporting tools and data analysis spreadsheet
-- Final results from the AIDOM@rket DEMO competition
 
 These materials showcase the methodology used to structure and assess hackathons as collaborative tools within large-scale research projects.
 
